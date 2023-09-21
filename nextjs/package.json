@@ -61,7 +61,7 @@
     "deep-email-validator": "^0.1.21",
     "encoding": "^0.1.13",
     "framer-motion": "^10.12.16",
-    "graphql": "^16.6.0",
+    "graphql": "^16.8.1",
     "graphql-constraint-directive": "^5.0.0",
     "graphql-depth-limit": "^1.1.0",
     "graphql-scalars": "^1.20.4",
