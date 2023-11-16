@@ -83,7 +83,7 @@
     "react-scroll": "^1.8.9",
     "react-tagsinput": "^3.20.1",
     "redis": "^4.6.5",
-    "sharp": "^0.32.1",
+    "sharp": "^0.32.6",
     "stripe": "^12.2.0",
     "styled-components": "^6.0.0-rc.3"
   },
